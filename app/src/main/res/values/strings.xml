@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sensor Data</string>
+    <string name="accelerometer_initial_text">Accelerometer: X: 0, Y: 0, Z: 0</string>
+    <string name="gyroscope_initial_text">Gyroscope: X: 0, Y: 0, Z: 0</string>
+    <string name="magnetometer_initial_text">Magnetometer: X: 0, Y: 0, Z: 0</string>
+    <string name="light_initial_text">Light: 0</string>
+
+    <string name="accelerometer_text">Accelerometer: X: %.2f, Y: %.2f, Z: %.2f</string>
+    <string name="gyroscope_text">Gyroscope: X: %.2f, Y: %.2f, Z: %.2f</string>
+    <string name="magnetometer_text">Magnetometer: X: %.2f, Y: %.2f, Z: %.2f</string>
+    <string name="light_text">Light: %.2f</string>
+</resources>
